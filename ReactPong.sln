@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactPong", "ReactPong.csproj", "{AE1ECCC3-37A2-4177-BBA4-509FE629D01E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE1ECCC3-37A2-4177-BBA4-509FE629D01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1ECCC3-37A2-4177-BBA4-509FE629D01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1ECCC3-37A2-4177-BBA4-509FE629D01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1ECCC3-37A2-4177-BBA4-509FE629D01E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D018D83-E55A-4E32-922B-8E6069F7EE31}
+	EndGlobalSection
+EndGlobal
